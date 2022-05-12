@@ -1,0 +1,11 @@
+C:\Users\Angel\source\repos\CalculoImpuestos\bin\Debug\CalculoImpuestos.exe.config
+C:\Users\Angel\source\repos\CalculoImpuestos\bin\Debug\CalculoImpuestos.exe
+C:\Users\Angel\source\repos\CalculoImpuestos\bin\Debug\CalculoImpuestos.pdb
+C:\Users\Angel\source\repos\CalculoImpuestos\obj\Debug\CalculoImpuestos.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\CalculoImpuestos\obj\Debug\CalculoImpuestos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Angel\source\repos\CalculoImpuestos\obj\Debug\CalculoImpuestos.Form1.resources
+C:\Users\Angel\source\repos\CalculoImpuestos\obj\Debug\CalculoImpuestos.Properties.Resources.resources
+C:\Users\Angel\source\repos\CalculoImpuestos\obj\Debug\CalculoImpuestos.csproj.GenerateResource.cache
+C:\Users\Angel\source\repos\CalculoImpuestos\obj\Debug\CalculoImpuestos.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\CalculoImpuestos\obj\Debug\CalculoImpuestos.exe
+C:\Users\Angel\source\repos\CalculoImpuestos\obj\Debug\CalculoImpuestos.pdb
